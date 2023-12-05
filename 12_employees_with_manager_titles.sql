@@ -1,4 +1,4 @@
-USE northwind;
+-- ﻿﻿﻿﻿What employees have "manager" in their titles? 
 
 SELECT * 
 FROM Employees 
